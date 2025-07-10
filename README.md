@@ -20,9 +20,9 @@ npm start
 
 ## Credit
 
-- Metadata Source: British Library’s digitized manuscript catalogue
-- Visualization Inspiration: Mapping Manuscript Migrations Project
-- Technology Stack: React, Leaflet, Deck.gl, Mapbox
+- Manuscript metadata: British Library https://www.bl.uk/
+- Visualization model: Inspired by the Mapping Manuscript Migrations project https://mappingmanuscriptmigrations.org/  
+- Technologies used: React, Leaflet, Deck.gl, Mapbox
 
 ## Author
 - Sri Suryani (sayasrisuryani@gmail.com)
