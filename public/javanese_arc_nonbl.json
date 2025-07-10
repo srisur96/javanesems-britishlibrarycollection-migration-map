@@ -1,0 +1,3173 @@
+[
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -1.2577,
+      51.752
+    ],
+    "properties": {
+      "manuscriptID": "1896.67.2",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "Oxford",
+      "year": "1896.0",
+      "agent": "C.M. Pleyte",
+      "fromOwner": "J.F.T Maijor Resident of Surakarta",
+      "toOwner": "Pitt Rivers Museum",
+      "note": "Purchased"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Item no. +850",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Aug. W. Franks",
+      "fromOwner": "Unknown",
+      "toOwner": "Museum of Mankind (Ethnography Department of the British Museum)",
+      "note": "Presented"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 1",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 10",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Suradiwirya",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 11",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Millies sale",
+      "fromOwner": "Sumataruna",
+      "toOwner": "Crawford Collection",
+      "note": "sale no.1168"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 14",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 16",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 18",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Millies sale",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": "sale no.1167"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 19",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Millies sale",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": "sale no.1172"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 2",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Millies sale",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": "sale no.1163"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 20",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sultan Hamengkubuwana V",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 21",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sultan Hamengkubuwana V",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 22",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sultan Hamengkubuwana V",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 23",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sultan Hamengkubuwana V",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 24",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 25",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "1950.0",
+      "agent": "P.Philipps",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": "Acquired"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 3",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Bragge sale",
+      "fromOwner": "Moerti",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 4",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.7521,
+      -7.2575
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 45",
+      "order": 1,
+      "fromPlace": "Surabaya",
+      "toPlace": "London",
+      "year": "1813.0",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Unknown",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 45",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Lady Raffles",
+      "fromOwner": "Unknown",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 45a",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 46",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Pangeran Suryanegara",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 6",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      106.8456,
+      -6.2088
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 7",
+      "order": 1,
+      "fromPlace": "Jakarta",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Ki Nalamerta",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.4167,
+      -6.9667
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Javanese 9",
+      "order": 1,
+      "fromPlace": "Semarang",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Millies sale",
+      "fromOwner": "Gottlob Brucker",
+      "toOwner": "Crawford Collection",
+      "note": "sale no.1189/1"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -2.2426,
+      53.4808
+    ],
+    "properties": {
+      "manuscriptID": "Kawi 1",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "Manchester",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Djaijeng Rono",
+      "toOwner": "Crawford Collection",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 11576",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 1160",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12145",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12153",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12156",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12159",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12300",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      0.0,
+      0.0
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12899",
+      "order": 1,
+      "fromPlace": "Kebon_Cina",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Wirajaya",
+      "toOwner": "SOAS",
+      "note": "Marsden Collection"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 12918",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      0.0,
+      0.0
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 168210",
+      "order": 1,
+      "fromPlace": "Unknown",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 2311264",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 2311826",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231240",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231241",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231242",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231243",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231244",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sumahatmaka",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231925",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231927",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231928",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231929",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231930",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231931",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231932",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231933",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231934",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231935",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231936",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231961 (vol.i)",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sumahatmaka",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231961 (vol.ii)",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sumahatmaka",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231961 (vol.iii)",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sumahatmaka",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231961 (vol.iv)",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sumahatmaka",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231962",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231963",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231964",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231965",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231966",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231967",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231968",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231969",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231970",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Puja Arja",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231971",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231972",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Mas Sumasta",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231973",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231974",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231975",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 231976",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309692",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Jayengarif",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309693",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Soetarto Hatmosoetarto",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309694",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Soetarto Hatmosoetarto",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309695",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309696",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309697",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 309698",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Jayengarif",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 310763",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Suryadarsana",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 310764",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 324377",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.8167,
+      -7.565
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 324378",
+      "order": 1,
+      "fromPlace": "Surakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Sutawijaya, Mudya Wignyasutama",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 41520",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 43265",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": "Marsden Collection"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 9881",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": "Marsden Collection"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 9883",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": "Marsden Collection"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "MS 9886",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": "Marsden Collection"
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "O.S Misc. 12140",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "Unknown",
+      "fromOwner": "Unknown",
+      "toOwner": "SOAS",
+      "note": "Marsden Collection"
+    }
+  },
+  {
+    "sourcePosition": [
+      112.7521,
+      -7.2575
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 1",
+      "order": 1,
+      "fromPlace": "Surabaya",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.907,
+      -7.6455
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 10",
+      "order": 1,
+      "fromPlace": "Pasuruhan",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Petor pan Litten",
+      "toOwner": "Thomas Raffles",
+      "note": "Bought"
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 10",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      113.8622,
+      -7.0051
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 11",
+      "order": 1,
+      "fromPlace": "Sumenep",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.4167,
+      -6.9667
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 12",
+      "order": 1,
+      "fromPlace": "Semarang",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Kartatruna",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 12",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 13",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 14",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 16",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Tumenggung Sumadiningrat",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 16",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.907,
+      -7.6455
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 17",
+      "order": 1,
+      "fromPlace": "Pasuruhan",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Petor pan Litten",
+      "toOwner": "Thomas Raffles",
+      "note": "Bought"
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 17",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.907,
+      -7.6455
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 18",
+      "order": 1,
+      "fromPlace": "Pasuruhan",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Petor pan Litten",
+      "toOwner": "Thomas Raffles",
+      "note": "Bought"
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 18",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 19",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 2",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 20",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 22",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 23",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.7521,
+      -7.2575
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 24",
+      "order": 1,
+      "fromPlace": "Surabaya",
+      "toPlace": "London",
+      "year": "1814.0",
+      "agent": "",
+      "fromOwner": "Mas Patti",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 24",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 25",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 26",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Sutardirja",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 26",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 27",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 28",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 29",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      109.1403,
+      -6.8694
+    ],
+    "targetPosition": [
+      110.6074,
+      -7.7041
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 3",
+      "order": 1,
+      "fromPlace": "Tegal",
+      "toPlace": "Java",
+      "year": "1815.0",
+      "agent": "",
+      "fromOwner": "Arya Reksanegara",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 3",
+      "order": 2,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 30",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 31",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 32",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      113.8622,
+      -7.0051
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 33",
+      "order": 1,
+      "fromPlace": "Sumenep",
+      "toPlace": "London",
+      "year": "1814.0",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 33",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.4167,
+      -6.9667
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 34",
+      "order": 1,
+      "fromPlace": "Semarang_Jepara",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 34",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.8181,
+      -7.6003
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 35",
+      "order": 1,
+      "fromPlace": "Bangil",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Ki Sutawijaya",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 35",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 36",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 37",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 38",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      112.7521,
+      -7.2575
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 39",
+      "order": 1,
+      "fromPlace": "Surabaya",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 39",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 4",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 41",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      113.8622,
+      -7.0051
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 42",
+      "order": 1,
+      "fromPlace": "Sumenep",
+      "toPlace": "London",
+      "year": "1814.0",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 42",
+      "order": 2,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 43",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 44",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 47",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 48",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 49",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 50",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 6",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.3644,
+      -7.8014
+    ],
+    "targetPosition": [
+      110.4167,
+      -6.9667
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 7",
+      "order": 1,
+      "fromPlace": "Yogyakarta",
+      "toPlace": "Semarang",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Adipati Danureja II",
+      "toOwner": "Mas Sumawijaya",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.4167,
+      -6.9667
+    ],
+    "targetPosition": [
+      111.9,
+      -7.5667
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 7",
+      "order": 2,
+      "fromPlace": "Semarang",
+      "toPlace": "Bagor",
+      "year": "1814.0",
+      "agent": "",
+      "fromOwner": "Mas Sumawijaya",
+      "toOwner": "Adipati Sura Adimanggala",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      111.9,
+      -7.5667
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 7",
+      "order": 3,
+      "fromPlace": "Bagor",
+      "toPlace": "London",
+      "year": "",
+      "agent": "",
+      "fromOwner": "Adipati Sura Adimanggala",
+      "toOwner": "Thomas Raffles",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      -0.1276,
+      51.5072
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 7",
+      "order": 4,
+      "fromPlace": "London",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 8",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Raffles Java 9",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1830.0",
+      "agent": "Lady Raffles",
+      "fromOwner": "Thomas Raffles",
+      "toOwner": "Royal Asiatic Society",
+      "note": ""
+    }
+  },
+  {
+    "sourcePosition": [
+      110.6074,
+      -7.7041
+    ],
+    "targetPosition": [
+      -0.1276,
+      51.5072
+    ],
+    "properties": {
+      "manuscriptID": "Reg. no. 1926.7-7.5",
+      "order": 1,
+      "fromPlace": "Java",
+      "toPlace": "London",
+      "year": "1859.0",
+      "agent": "",
+      "fromOwner": "Unknown",
+      "toOwner": "Museum of Mankind (Ethnography Department of the British Museum)",
+      "note": ""
+    }
+  }
+]
