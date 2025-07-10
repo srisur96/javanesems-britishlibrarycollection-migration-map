@@ -16,10 +16,15 @@ This project visualizes the migration history of Javanese manuscripts in the Bri
 ```bash
 npm install
 npm start
+```
 
-## Credits
+## Credit
 
-- Manuscript metadata: [British Library](https://www.bl.uk/)
-- Visualization model inspired by: [Mapping Manuscript Migrations](https://mappingmanuscriptmigrations.org/)
-- Built with: React, Leaflet, Deck.gl, Mapbox
-- Developed by: Sri Suryani (MA Digital Humanities, Lancaster University)
+- Metadata Source: British Library’s digitized manuscript catalogue
+- Visualization Inspiration: Mapping Manuscript Migrations Project
+- Technology Stack: React, Leaflet, Deck.gl, Mapbox
+
+## Author
+- Sri Suryani (sayasrisuryani@gmail.com)
+- This project is part of the MA Digital Humanities dissertation at Lancaster University (Academic Year 2024/2025).
+
