@@ -26,5 +26,5 @@ npm start
 
 ## Author
 - Sri Suryani (sayasrisuryani@gmail.com)
-- This project is part of the MA Digital Humanities dissertation at Lancaster University (Academic Year 2024/2025).
+- Student in the MA Digital Humanities programme at Lancaster University (Academic Year 2024/2025).
 
