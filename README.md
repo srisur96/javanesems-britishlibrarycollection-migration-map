@@ -18,6 +18,14 @@ npm install
 npm start
 ```
 
+## Notebooks
+This repository includes the following Jupyter notebooks for statistical analysis:
+
+- `01_total_manuscripts.ipynb` – Count of unique manuscripts
+- `02_transfer_orders.ipynb` – Visualization of manuscripts by number of transfer orders
+- `03_owner_statistics.ipynb` – Bar chart showing manuscripts by original owner
+- `04_origin_city_statistics.ipynb` – Bar chart showing manuscripts by origin city
+
 ## Credit
 
 - Manuscript metadata: British Library https://www.bl.uk/
