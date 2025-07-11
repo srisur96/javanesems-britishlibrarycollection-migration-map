@@ -11,6 +11,7 @@ This project visualizes the migration history of Javanese manuscripts in the Bri
 ## Folder Structure
 - `public/` — Contains metadata files and static assets
 - `src/` — React components (`MapView.jsx`, `App.js`, etc.)
+- `notebooks/` — Jupyter notebooks for statistical analysis of manuscript data (total, transfers, owners, cities)
 
 ## How to Run Locally
 ```bash
