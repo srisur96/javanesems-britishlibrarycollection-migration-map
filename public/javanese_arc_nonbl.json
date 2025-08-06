@@ -694,27 +694,6 @@
   },
   {
     "sourcePosition": [
-      0.0,
-      0.0
-    ],
-    "targetPosition": [
-      -0.1276,
-      51.5072
-    ],
-    "properties": {
-      "manuscriptID": "MS 12899",
-      "order": 1,
-      "fromPlace": "Kebon_Cina",
-      "toPlace": "London",
-      "year": "",
-      "agent": "Unknown",
-      "fromOwner": "Wirajaya",
-      "toOwner": "SOAS",
-      "note": "Marsden Collection"
-    }
-  },
-  {
-    "sourcePosition": [
       110.6074,
       -7.7041
     ],
@@ -726,27 +705,6 @@
       "manuscriptID": "MS 12918",
       "order": 1,
       "fromPlace": "Java",
-      "toPlace": "London",
-      "year": "",
-      "agent": "Unknown",
-      "fromOwner": "Unknown",
-      "toOwner": "SOAS",
-      "note": ""
-    }
-  },
-  {
-    "sourcePosition": [
-      0.0,
-      0.0
-    ],
-    "targetPosition": [
-      -0.1276,
-      51.5072
-    ],
-    "properties": {
-      "manuscriptID": "MS 168210",
-      "order": 1,
-      "fromPlace": "Unknown",
       "toPlace": "London",
       "year": "",
       "agent": "Unknown",
