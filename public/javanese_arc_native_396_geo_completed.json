@@ -2290,48 +2290,6 @@
   },
   {
     "sourcePosition": [
-      110.6074,
-      -7.7041
-    ],
-    "targetPosition": [
-      0.0,
-      0.0
-    ],
-    "properties": {
-      "manuscriptID": "IO Islamic 2446",
-      "order": 1,
-      "fromPlace": "Java",
-      "toPlace": "Unknown",
-      "year": "1811",
-      "agent": "",
-      "fromOwner": "Pangeran Purbaya",
-      "toOwner": "",
-      "note": ""
-    }
-  },
-  {
-    "sourcePosition": [
-      0.0,
-      0.0
-    ],
-    "targetPosition": [
-      0.0,
-      0.0
-    ],
-    "properties": {
-      "manuscriptID": "IO Islamic 2446",
-      "order": 2,
-      "fromPlace": "Unknown",
-      "toPlace": "Unknown",
-      "year": "",
-      "agent": "",
-      "fromOwner": "Unknown",
-      "toOwner": "John Leyden",
-      "note": "Likely transferred post-1800s; origin uncertain"
-    }
-  },
-  {
-    "sourcePosition": [
       -0.1276,
       51.5072
     ],
@@ -4133,27 +4091,6 @@
       "agent": "India Office Library (Mackenzie Collection)",
       "fromOwner": "Colin Mackenzie",
       "toOwner": "British Library",
-      "note": ""
-    }
-  },
-  {
-    "sourcePosition": [
-      0.0,
-      0.0
-    ],
-    "targetPosition": [
-      80.2376,
-      13.0674
-    ],
-    "properties": {
-      "manuscriptID": "MSS Jav 5",
-      "order": 1,
-      "fromPlace": "Unknown",
-      "toPlace": "Madras",
-      "year": "1812",
-      "agent": "",
-      "fromOwner": "Mr.Princen",
-      "toOwner": "Colin Mackenzie",
       "note": ""
     }
   },
